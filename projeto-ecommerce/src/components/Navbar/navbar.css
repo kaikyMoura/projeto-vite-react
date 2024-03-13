@@ -1,0 +1,12 @@
+.navbar {
+    background-color: aqua;
+    width: 78.7%;
+    margin-left: 18.2em;
+    position: absolute;
+    justify-content: end;
+}
+
+/* .navbar div:hover {
+    width: 50.7%;
+    margin-left: 18.2em;
+} */
